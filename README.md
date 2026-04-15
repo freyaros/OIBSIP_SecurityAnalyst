@@ -40,7 +40,8 @@ Throughout this internship at Oasis Infobyte, I have gained practical exposure t
 4. Understand the intersection of human psychology and technical vulnerabilities in cyber-attacks.
 
 ## Links
-* **LinkedIn Post:** 
+* **LinkedIn Post Task 1:** https://www.linkedin.com/posts/freya-rose-b6862430b_oasisinfobyte-cybersecurity-networksecurity-activity-7450126776728715264-4uF1?utm_source=share&utm_medium=member_desktop&rcm=ACoAAE7vu4ABLD4XHPV1wtSlJ0BWMnTyYCMPzdI
+* **LinkedIn Post Task 8:** https://www.linkedin.com/posts/freya-rose-b6862430b_oasisinfobyte-wireshark-networkforensics-ugcPost-7450127649177329664-UB_e?utm_source=share&utm_medium=member_desktop&rcm=ACoAAE7vu4ABLD4XHPV1wtSlJ0BWMnTyYCMPzdI
 * **GitHub Repository:** [https://github.com/freyaros/OIBSIP_SecurityAnalyst](https://github.com/freyaros/OIBSIP_SecurityAnalyst)
 
 © 2026 Freya Rose | Oasis Infobyte Internship
